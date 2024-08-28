@@ -70,7 +70,7 @@ Read before class:
 * Li Lucy, Divya Tadimeti, and David Bamman, “[Discovering Differences in the Representation of People Using Contextual Semantic Axes](https://arxiv.org/pdf/2210.12170),” *EMNLP* 2022  
 * Naitian Zhou, David Jurgens, and David Bamman, “[Social Meme-ing: Measuring Linguistic Variation in Memes](https://arxiv.org/pdf/2311.09130),” *NACCL* 2024 
 
-// In class: contextual embeddings; maybe semantic embeddings if we have time ** **
+// In class: contextual embeddings; maybe document or semantic embeddings if we have time ** **
 
 **10\. Tuesday, October 1st – Working with LLMs**
 
@@ -197,6 +197,8 @@ Read before class:
 * Maria Antoniak, David Mimno, and Karen Levy, “[Narrative Paths and Negotiation of Power in Birth Stories](https://maria-antoniak.github.io/resources/2019\_cscw\_birth\_stories.pdf),” *CSCW* (2019)
 
 **25\. Thursday, November 21st  – Guest lecture TBD – async\!**  
+**Due:** Final project first pass
+
 Read before class:
 
 * TBD
